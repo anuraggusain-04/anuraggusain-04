@@ -139,17 +139,6 @@ Ask me about: Django · React · Flutter · ML Pipelines · Power BI
 </div>
 
 ---
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=23f1001003&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ### 📬 Connect With Me
 
 <div align="center">
