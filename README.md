@@ -13,7 +13,6 @@
 ---
 
 ### 💻 About Me
-
 ```bash
 ┌──(anurag㉿portfolio)-[~]
 └─$ whoami
@@ -23,7 +22,6 @@ Anurag Gusain — Full Stack Dev · Data Analyst · ML Engineer
 Dual Degree: BA CS @ Delhi University + BS Data Science @ IIT Madras
 President @ e-people.org | 2x Active Intern | Trophy & Certificate Awardee
 ```
-
 ```bash
 ┌──(anurag㉿portfolio)-[~]
 └─$ cat current_status.txt
@@ -35,7 +33,6 @@ President @ e-people.org | 2x Active Intern | Trophy & Certificate Awardee
 🏆 Latest Win            : Launched rlaalumni.in — felicitated on stage at college
 🎯 Motto                 : I don't just learn technologies — I ship things 🚀
 ```
-
 ```bash
 ┌──(anurag㉿portfolio)-[~]
 └─$ cat fun_facts.txt
@@ -44,13 +41,13 @@ President @ e-people.org | 2x Active Intern | Trophy & Certificate Awardee
 ⚡ Built & deployed a production portal used by 1000+ real alumni
 ⚡ Trained ML models on 90,000+ records (R² = 0.9758)
 ⚡ Built an LLM Agent that runs tools + JS in the browser
+⚡ Built a full MERN stack platform with JWT auth & admin dashboard
 ⚡ Pro GitHub user juggling 40+ repos and counting
 ```
-
 ```bash
 ┌──(anurag㉿portfolio)-[~]
-└─$ echo "Ask me about: Django · React · Flutter · ML Pipelines · Power BI"
-Ask me about: Django · React · Flutter · ML Pipelines · Power BI
+└─$ echo "Ask me about: Django · React · Node.js · Flutter · ML Pipelines · Power BI"
+Ask me about: Django · React · Node.js · Flutter · ML Pipelines · Power BI
 ```
 
 ---
@@ -69,8 +66,10 @@ Ask me about: Django · React · Flutter · ML Pipelines · Power BI
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 #### Frameworks & Libraries
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -87,6 +86,7 @@ Ask me about: Django · React · Flutter · ML Pipelines · Power BI
 ![MS Excel](https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 #### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -99,6 +99,7 @@ Ask me about: Django · React · Flutter · ML Pipelines · Power BI
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![Search Console](https://img.shields.io/badge/Search_Console-4285F4?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -111,6 +112,7 @@ Ask me about: Django · React · Flutter · ML Pipelines · Power BI
 | Project | Description | Tech | Live |
 |---------|-------------|------|------|
 | **RLAC Alumni Portal** | Production portal — 1000+ alumni records, Wall of Fame, event gallery, registration & donation flow | React · Django · PostgreSQL · Cloudinary · VPS | [rlaalumni.in](https://rlaalumni.in) |
+| **SkillNest** | Full-stack MERN education platform — JWT auth, admin CRUD dashboard, course enrollment, category management, fully responsive | React · Node.js · Express · MongoDB · JWT | [Live](https://skillnest-frontend-ten.vercel.app) |
 | **Gyaan Deck** | Convert any text/markdown into a polished PowerPoint presentation using LLM APIs (OpenAI · Anthropic · Gemini) | FastAPI · python-pptx · Tailwind · Vercel | [Live](https://ppt-generator-woad-mu.vercel.app) |
 | **GyaanSetu LLM Agent** | Browser-based multi-tool LLM reasoning agent — Google Search, JS sandbox, API pipelines, multi-provider model picker | HTML · JS · Bootstrap · OpenAI-style tools | [Live](https://llm-agent-swart.vercel.app) |
 | **Customer Exit Prediction** | ML pipeline on 90K records — 10 models, F1=0.607, 18% accuracy boost with tuned LightGBM | Python · XGBoost · CatBoost · LightGBM | [View](https://github.com/23f1001003) |
@@ -139,6 +141,7 @@ Ask me about: Django · React · Flutter · ML Pipelines · Power BI
 </div>
 
 ---
+
 ### 📬 Connect With Me
 
 <div align="center">
