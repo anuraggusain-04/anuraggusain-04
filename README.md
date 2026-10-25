@@ -25,7 +25,6 @@ Building practical web applications and exploring Machine Learning, Data Science
 ## 👨‍💻 About Me
 
 - 🎓 Studying at **Ram Lal Anand College, University of Delhi**, with Computer Science as my major and Economics as my minor.
-- 📚 Pursuing the **IIT Madras online BS programme in Data Science and Applications**.
 - 💻 Interested in full-stack development, backend engineering, machine learning, and AI-powered applications.
 - 🛠️ Enjoy building projects that combine practical problem-solving with clean, maintainable code.
 - 📈 Exploring the intersection of technology, business, data, and finance.
