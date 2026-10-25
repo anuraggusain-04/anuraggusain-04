@@ -1,164 +1,155 @@
+
+<!-- ==================== HEADER ==================== -->
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=4A9EFF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Anurag+Gusain+%F0%9F%91%8B;Full+Stack+Developer+%7C+Data+Analyst;ML+Engineer+%7C+AI+Builder;CS+%40+DU+%2B+IIT+Madras+%F0%9F%8E%93)](https://git.io/typing-svg)
+# Hi, I'm Anurag Gusain 👋
 
-<br/>
+### Software Engineer | Full Stack Developer
 
-![Profile Views](https://komarev.com/ghpvc/?username=23f1001003&color=4A9EFF&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/23f1001003?label=Followers&style=flat-square&color=4A9EFF)](https://github.com/23f1001003)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/anurag-gusain04)
+Building practical web applications and exploring Machine Learning, Data Science, and AI.
+
+<a href="https://github.com/anuraggusain-04">
+  <img src="https://komarev.com/ghpvc/?username=anuraggusain-04&style=flat&color=2563eb" alt="Profile Views" />
+</a>
+<a href="https://github.com/anuraggusain-04?tab=followers">
+  <img src="https://img.shields.io/github/followers/anuraggusain-04?style=flat&logo=github&label=Followers" alt="GitHub Followers" />
+</a>
 
 </div>
 
 ---
 
-### 💻 About Me
-```bash
-┌──(anurag㉿portfolio)-[~]
-└─$ whoami
-```
-```
-Anurag Gusain — Full Stack Dev · Data Analyst · ML Engineer
-Dual Degree: BA CS @ Delhi University + BS Data Science @ IIT Madras
-President @ e-people.org | 2x Active Intern | Trophy & Certificate Awardee
-```
-```bash
-┌──(anurag㉿portfolio)-[~]
-└─$ cat current_status.txt
-```
-```
-🔨 Currently Working On  : Portfolio website (React.js) + Deep Learning Projects
-🧠 Currently Learning    : Deep Learning — CNNs, RNNs, Transformers
-💼 Open To               : SDE · Data Analyst · ML Engineer · Internship Roles
-🏆 Latest Win            : Launched rlaalumni.in — felicitated on stage at college
-🎯 Motto                 : I don't just learn technologies — I ship things 🚀
-```
-```bash
-┌──(anurag㉿portfolio)-[~]
-└─$ cat fun_facts.txt
-```
-```
-⚡ Built & deployed a production portal used by 1000+ real alumni
-⚡ Trained ML models on 90,000+ records (R² = 0.9758)
-⚡ Built an LLM Agent that runs tools + JS in the browser
-⚡ Built a full MERN stack platform with JWT auth & admin dashboard
-⚡ Pro GitHub user juggling 40+ repos and counting
-```
-```bash
-┌──(anurag㉿portfolio)-[~]
-└─$ echo "Ask me about: Django · React · Node.js · Flutter · ML Pipelines · Power BI"
-Ask me about: Django · React · Node.js · Flutter · ML Pipelines · Power BI
-```
+<!-- ==================== ABOUT ME ==================== -->
+
+## 👨‍💻 About Me
+
+- 🎓 Studying at **Ram Lal Anand College, University of Delhi**, with Computer Science as my major and Economics as my minor.
+- 📚 Pursuing the **IIT Madras online BS programme in Data Science and Applications**.
+- 💻 Interested in full-stack development, backend engineering, machine learning, and AI-powered applications.
+- 🛠️ Enjoy building projects that combine practical problem-solving with clean, maintainable code.
+- 📈 Exploring the intersection of technology, business, data, and finance.
+- 🚀 Focused on continuously improving my engineering skills through hands-on projects and collaborative work.
 
 ---
 
-### 🛠️ Tech Stack
+<!-- ==================== TECH STACK ==================== -->
 
-#### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## 🧰 Tech Stack
 
-#### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![R Shiny](https://img.shields.io/badge/R--Shiny-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### Languages
 
-#### ML & Data Science
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-AA4A44?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![MS Excel](https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,dart,html,css" alt="Programming Languages" />
+</p>
 
-#### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+### Frontend Development
 
-#### DevOps, Hosting & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VPS](https://img.shields.io/badge/Hostinger_VPS-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![Search Console](https://img.shields.io/badge/Search_Console-4285F4?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" alt="Frontend Technologies" />
+</p>
+
+### Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi" alt="Backend Technologies" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite" alt="Databases" />
+</p>
+
+### Data Science and Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow" alt="Machine Learning Technologies" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" alt="Excel" />
+</p>
+
+### Tools and Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,vercel,netlify,render" alt="Tools and Platforms" />
+</p>
 
 ---
 
-### 🚀 Featured Projects
+<!-- ==================== FEATURED PROJECTS ==================== -->
 
-| Project | Description | Tech | Live |
-|---------|-------------|------|------|
-| **RLAC Alumni Portal** | Production portal — 1000+ alumni records, Wall of Fame, event gallery, registration & donation flow | React · Django · PostgreSQL · Cloudinary · VPS | [rlaalumni.in](https://rlaalumni.in) |
-| **SkillNest** | Full-stack MERN education platform — JWT auth, admin CRUD dashboard, course enrollment, category management, fully responsive | React · Node.js · Express · MongoDB · JWT | [Live](https://skillnest-frontend-ten.vercel.app) |
-| **Gyaan Deck** | Convert any text/markdown into a polished PowerPoint presentation using LLM APIs (OpenAI · Anthropic · Gemini) | FastAPI · python-pptx · Tailwind · Vercel | [Live](https://ppt-generator-woad-mu.vercel.app) |
-| **GyaanSetu LLM Agent** | Browser-based multi-tool LLM reasoning agent — Google Search, JS sandbox, API pipelines, multi-provider model picker | HTML · JS · Bootstrap · OpenAI-style tools | [Live](https://llm-agent-swart.vercel.app) |
-| **Customer Exit Prediction** | ML pipeline on 90K records — 10 models, F1=0.607, 18% accuracy boost with tuned LightGBM | Python · XGBoost · CatBoost · LightGBM | [View](https://github.com/23f1001003) |
-| **Flight Fare Prediction** | StackingRegressor on 40K records achieving R²=0.9758 | Python · Random Forest · XGBoost · Scikit-learn | [View](https://github.com/23f1001003) |
-| **Customer Behavior Dashboard** | End-to-end Power BI dashboard for 3,900+ customers with DAX KPIs | Power BI · Python · PostgreSQL | [View](https://github.com/23f1001003) |
-| **To-Do List App** | Cross-platform task app — Android, iOS & Web with offline storage | Flutter · Dart | [Live](https://todo-app-web-phi.vercel.app) |
-| **Enigma Escape** | 5 mini-games with real-time Python compiler & score progression | HTML · CSS · JS · Python | [Live](https://23f1001003.github.io/startescape/) |
-| **Notes App** | Full-stack notes with auth, CRUD, session management | Flask · HTML · CSS · JS | [Live](https://flask-notesapp.onrender.com) |
-| **Employee Management System** | Admin dashboard with role-based auth & Django ORM | Django · SQL | [Live](https://employee-managment-system-cv0j.onrender.com) |
+## 🚀 Featured Projects
+
+A selection of projects across full-stack development, AI, machine learning, and application development.
+
+| Project | Description | Links |
+|---|---|---|
+| **SkillNest** | Online learning platform with a React frontend and Node.js/Express backend. | [Live Demo](https://skillnest-frontend-ten.vercel.app/courses) · [Frontend](https://github.com/anuraggusain-04/skillnest-frontend) · [Backend](https://github.com/anuraggusain-04/skillnest-backend) |
+| **Gyaan Deck** | Web application for generating presentations. | [Live Demo](https://ppt-generator-woad-mu.vercel.app) |
+| **GyaanSetu — LLM Agent** | AI-focused web application exploring LLM-powered interactions. | [Live Demo](https://llm-agent-swart.vercel.app) |
+| **Big Mart Sales Prediction** | Machine learning project involving data preprocessing, feature engineering, and regression models. | [GitHub Repositories](https://github.com/anuraggusain-04?tab=repositories) |
+| **Customer Exit Prediction** | Machine learning project focused on predicting customer churn. | [GitHub Repositories](https://github.com/anuraggusain-04?tab=repositories) |
+| **Flight Fare Prediction** | Machine learning project exploring flight fare prediction using data preprocessing and regression techniques. | [GitHub Repositories](https://github.com/anuraggusain-04?tab=repositories) |
+| **Customer Behavior Dashboard** | Data analysis and visualization project. | [GitHub Repositories](https://github.com/anuraggusain-04?tab=repositories) |
+| **To-Do Application** | Web-based task management application. | [Live Demo](https://todo-app-web-phi.vercel.app) |
+| **Enigma Escape** | Retro gaming and coding challenge project developed for a college event. | [GitHub](https://github.com/anuraggusain-04/startescape) |
+| **Notes App** | Notes management application built with Flask. | [Live Demo](https://flask-notesapp.onrender.com) |
+| **Employee Management System** | Web application for managing employee-related information. | [Live Demo](https://employee-managment-system-cv0j.onrender.com) |
+
+> **Note:** Replace generic repository links in the machine learning and dashboard entries with their exact repository URLs. Verify that every live demo and repository is publicly accessible before publishing.
 
 ---
 
-### 📊 GitHub Stats
+<!-- ==================== GITHUB STATISTICS ==================== -->
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=23f1001003&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23f1001003&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/anuraggusain-04">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anuraggusain-04&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub Stats" />
+</a>
 
-</div>
+<a href="https://github.com/anuraggusain-04">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraggusain-04&layout=compact&hide_border=true&theme=transparent" alt="Most Used Languages" />
+</a>
 
-<div align="center">
+<br />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=23f1001003&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=anuraggusain-04&hide_border=true&theme=transparent" alt="GitHub Contribution Streak" />
 
 </div>
 
 ---
 
-### 📬 Connect With Me
+<!-- ==================== CONNECT ==================== -->
 
-<div align="center">
+## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-gusain04)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/23f1001003)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/anuragrla)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.anuraggusain@gmail.com)
+I'm open to connecting with developers, learning from others, and collaborating on interesting technology projects.
 
-</div>
+<p>
+  <a href="https://github.com/anuraggusain-04">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/anurag-gusain04">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://kaggle.com/anuragrla">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <a href="mailto:work.anuraggusain@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
 <div align="center">
 
-*"I don't just learn technologies — I ship things 🚀"*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4A9EFF&height=80&section=footer"/>
+*Building, learning, and improving — one project at a time.*
 
 </div>
